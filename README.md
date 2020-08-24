@@ -1,3 +1,3 @@
 ### Hello there 👋
 
-Hi, how are you doing? I'm Alex, master student of physics and here I share the code I find worth sharing. Like most programmers, I have a lot of project ideas, but virtually none of them are finished. If I ever finish any of them, you will find it here.
+Hi, how are you doing? I'm Alex, master student of physics and here I share the code I find worth sharing. Like most programmers, I have a lot of project ideas, but virtually none of them are finished. If I ever finish any of them, you will find it here. I like danger noodles (no step on snek 🐍).
