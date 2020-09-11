@@ -1,3 +1,42 @@
 ### Hello there 👋
 
-I'm Alex, master student of physics and here I share the code I find worth sharing or am afraid of loosing. Like most programmers, I have a lot of project ideas, but virtually none of them are finished. If I ever finish any of them, you will find it here. I like piano 🎹, guitar 🎸, jiu jitsu 🥋 and danger noodles (no step on snek 🐍).
+I am Alex, I'm currently doing my MSc in theoretical physics. While my code usually is a total mess, on very rare occasions I actually produce something usable and maintainable. If the latter is the case I possibly upload it to GitHub at some point. Right now I mainly use GitHub as a backup service for some code so sorry for the repo mess. Here are some brief information about me:
+
+## education
+* Bachelor of Science in physics in 2019
+
+## skills
+
+### languages
+* german -- native
+* english -- fluent (C1)
+
+### programming
+* C++
+* Python
+* Arduino
+* Mathematica
+* Fortran (a bit)
+
+### software
+* Affinity Designer / Photo
+* Final Cut
+* Logic Pro X
+
+## interests
+
+* piano 🎹
+* guitar 🎸
+* jiu jitsu 🥋
+* danger noodles (no step on snek 🐍)
+
+<div align="center">
+  ![github stats](https://github-readme-stats.vercel.app/api?username=alexschu98&show_icons=true)
+</div>  
+
+<div align="center">
+  **📫 Reach me at:**<br>
+
+  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/opakholis)](https://twitter.com/alexschu98)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/opakholis/)](https://www.linkedin.com/in/alexander-sch%C3%BCnemann-35904b1b3/)
+</div>
