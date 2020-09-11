@@ -31,7 +31,7 @@ I am Alex, I'm currently doing my MSc in theoretical physics. While my code usua
 * danger noodles (no step on snek 🐍)
 
 <div align="center">
-  ![github stats](https://github-readme-stats.vercel.app/api?username=alexschu98&show_icons=true)
+[![alexschu98's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alexschu98&show_icons=true)](https://github.com/alexschu98)
 </div>  
 
 <div align="center">
