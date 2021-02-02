@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-I am Alex, I'm currently doing my MSc in theoretical physics. While my code usually is a total mess, on very rare occasions I actually produce something usable and maintainable. If the latter is the case I possibly upload it to GitHub at some point. Right now I mainly use GitHub as a backup service for some code so sorry for the repo mess. Here are some brief information about me:
+I am Alex, I'm currently doing my MSc in theoretical physics. While my code usually is a total mess, on very rare occasions I actually produce something usable and maintainable. If the latter is the case I possibly upload it to GitHub at some point. Here are some brief information about me:
 
 ## education
 * Bachelor of Science in physics in 2019
