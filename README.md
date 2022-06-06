@@ -4,7 +4,7 @@ Hi, I'm Alex, a Software Consultant from Germany.
 ## Some random info about me
 * I studied physics and finished in 2022 as MSc 🎓
 * I'm currently learning ASP.NET and Angular/TypeScript 📚💻️
-* My current project is an AI playing retro games (wanted to check out the sfml lib) 🕹️
+* My current project is an AI playing retro games 🕹️
 * I like running, piano and guitar 🏃🎹🎸
 ## Languages, tools and technologies
 
