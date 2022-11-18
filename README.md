@@ -2,10 +2,8 @@
 Hi, I'm Alex, a Software Consultant from Germany.
 
 ## Some random info about me
-* I studied physics and finished in 2022 as MSc 🎓
-* I'm currently learning ASP.NET and Angular/TypeScript 📚💻️
-* My current project is an AI playing retro games 🕹️
-* I like running, piano and guitar 🏃🎹🎸
+* I have a MSc in physics 🎓
+* I like running, piano, guitar and wakeboarding 🏃🎹🎸
 ## Languages, tools and technologies
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
